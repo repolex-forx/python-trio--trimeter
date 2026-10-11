@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/trimeter/commit/85d50671c3c754d149c6211fa32fe81d5b07b79d",
       "git:hexsha": "85d50671c3c754d149c6211fa32fe81d5b07b79d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
