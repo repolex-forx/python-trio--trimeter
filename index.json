@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "trimeter",
+  "versions": [
+    {
+      "commit": "85d50671c3c754d149c6211fa32fe81d5b07b79d",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:51:51.645612+00:00"
+    }
+  ]
+}
